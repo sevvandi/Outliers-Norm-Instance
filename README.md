@@ -7,7 +7,7 @@ Folder structure
   
       Contains the following folders
       
-      (1.1) Datasets - All datasets used in paper
+      (1.1) Datasets - Zip file containing all datasets used in paper
       
       (1.2) Features_and_performance - Contains 3 files
       
