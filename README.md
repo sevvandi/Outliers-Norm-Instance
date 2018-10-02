@@ -7,7 +7,8 @@ Folder structure
   
       Contains the following folders
       
-      (1.1) Datasets - The files were too big to host on github even after being zipped. The datasets will be available on MATILDA (http://matilda.unimelb.edu.au) soon. 
+      (1.1) Datasets - The files were too big to host on github even after being zipped.
+      The datasets will be available on MATILDA (http://matilda.unimelb.edu.au) soon. 
       
       (1.2) Features_and_performance - Contains 3 files
       
