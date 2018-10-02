@@ -26,6 +26,7 @@ Folder structure
             This file contains the performance values for all 4 normalization schemes and outlier methods. 
             
     (2) Code
+        Contains code to compute the features, and an example.
     
     (3) useR2018
     
