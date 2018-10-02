@@ -31,7 +31,7 @@ Folder structure
     
     (3) useR2018
     
-        (3.1) Presentation done in useR2018!
+        (3.1) Presentation done for useR2018!
         
             
             
