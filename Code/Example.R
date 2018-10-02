@@ -13,5 +13,5 @@ library("igraph")
 library("ks")
 
 
-dat <- read.arff(paste("yeast_C2_P05_V05_CNA.arff", sep=""))
+dat <- read.arff("yeast_C2_P05_V05_CNA.arff")
 features <- ComputeMetaFeatures(dat)
